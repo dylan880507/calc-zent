@@ -1,6 +1,6 @@
 {
   "name": "calc-zent",
-  "version": "6.6.6",
+  "version": "6.6.7",
   "description": "一套前端设计语言和基于React的实现",
   "bugs": "https://github.com/youzan/zent/issues",
   "repository": {
@@ -23,10 +23,11 @@
   "author": "Youzan FE",
   "license": "MIT",
   "files": [
+    "src/",
     "assets/",
-    "css/",
-    "es/",
     "lib/",
+    "es/",
+    "css/",
     "typings/"
   ],
   "dependencies": {
